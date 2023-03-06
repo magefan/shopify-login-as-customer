@@ -137,3 +137,4 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   
   ### Shopware Extensions
   * [Shopware WebP Extension](https://magefan.com/shopware/extensions/webp)
+  * [Shopware Blog Extension](https://magefan.com/shopware/extensions/blog)
