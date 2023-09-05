@@ -8,7 +8,7 @@
 
 [Shopify Login as Customer](https://apps.shopify.com/login-as-customer)  is an app that helps you to log in to customer account without a password in a few clicks. This solution makes your customer support faster and more convenient since you can provide assistance in a matter of seconds. Click on customers and log in to their accounts with or without Multipass.
 
-<a href="https://apps.shopify.com/login-as-customer"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://apps.shopify.com/login-as-customer"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
 ## Benefits
 
