@@ -153,4 +153,4 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 Cron Schedule](https://magefan.com/magento-2-cron-schedule)
   * [Magento 2 CLI Extension](https://magefan.com/magento2-cli-extension)
   * [Magento 2 Conflict Detector](https://magefan.com/magento2-conflict-detector)
-     
+  * [Shopify Product Feeds](https://magefan.com/shopify/apps/product-feed)     
