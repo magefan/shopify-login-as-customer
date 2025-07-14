@@ -66,6 +66,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Shopify Size Chart](https://magefan.com/shopify/apps/size-chart)
   * [Shopify Google Indexer](https://magefan.com/shopify/apps/google-indexing)
   * [Shopify Product Feeds](https://magefan.com/shopify/apps/product-feed)
+  * [Shopify Server GTM & GA4](https://magefan.com/shopify/apps/gtm-and-ga4)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
