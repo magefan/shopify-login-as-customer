@@ -1,6 +1,6 @@
 # [Shopify Login as Customer](https://apps.shopify.com/login-as-customer) by Magefan
 
-<img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/l/o/login-as-customer-shopify_1.png">
+<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/png/media/catalog/product/cache/dc989049870bcd32f2808f6de0b233f0/s/h/shopify-login-as-customer-logo_1.webp">
 
 Shopify Login as Customer is an app that helps you log in to customer accounts without a password in a few clicks. This solution boosts your customer support immensely and lets you provide assistance in a matter of seconds.
 
@@ -19,9 +19,14 @@ Stand out from the competition and win your customers with effective and timely 
 
 ## Benefits
 
-* Faster sales assistance 
-* Better customer experience 
-* Convenient support tool 
+* [Provide Top-Notch Customer Support](https://github.com/magefan/shopify-login-as-customer#provide-top-notch-customer-support)
+* [Log in to Customer Accounts in a Few Clicks](https://github.com/magefan/shopify-login-as-customer#log-in-to-customer-accounts-in-a-few-clicks)
+* [Give Customers a Chance to Request Assistance](https://github.com/magefan/shopify-login-as-customer#give-customers-a-chance-to-request-assistance)
+* [Reset Customer Password to Log in](https://github.com/magefan/shopify-login-as-customer#reset-customer-password-to-log-in)
+* [Provide Excellent Support For New Customer Accounts](https://github.com/magefan/shopify-login-as-customer#provide-excellent-support-for-new-customer-accounts)
+* [Track the Login Activity](https://github.com/magefan/shopify-login-as-customer#track-the-login-activity)
+* [Place Orders for Your Customers](https://github.com/magefan/shopify-login-as-customer#place-orders-for-your-customers)
+* [Integrate External CRMs or Helpdesks](https://github.com/magefan/shopify-login-as-customer#integrate-external-crms-or-helpdesks)
 
 
 ## Features
