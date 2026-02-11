@@ -1,35 +1,49 @@
-# [Shopify Login as Customer](https://apps.shopify.com/login-as-customer) by Magefan
+# [Shopify Login as Customer](https://apps.shopify.com/login-as-customer) | Legacy & New Accounts (+B2B)
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/png/media/catalog/product/cache/dc989049870bcd32f2808f6de0b233f0/s/h/shopify-login-as-customer-logo_1.webp">
 
-Shopify Login as Customer is an app that helps you log in to customer accounts without a password in a few clicks. This solution boosts your customer support immensely and lets you provide assistance in a matter of seconds.
+Shopify Login as Customer is an app that helps you log in to customer accounts without a password in a few clicks. 
+
+The app runs quietly in the background, requires no setup, and helps Shopify merchants troubleshoot issues, provide real-time support, and improve customer experience.
 
 Stand out from the competition and win your customers with effective and timely support. The Shopify Login as Customer app has you covered.
 
-<img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+> **Note:** Login as Customer App for Shopify doesn’t require the Shopify Plus Multipass feature, it works with all Shopify plans.
 
-<a href="https://apps.shopify.com/login-as-customer"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
+<a href="https://magefan.com/blog/join-our-donations"><img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/shopify/apps/login-as-customer/documentation)
-  * [Change Log](https://magefan.com/shopify/apps/login-as-customer/change-log)
-  * [FAQs](https://magefan.com/shopify/apps/login-as-customer#pattr-faq)
+<a href="https://apps.shopify.com/login-as-customer"><img width="190" height="70" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/start-free_trial.webp"></a>
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
-
-## Benefits
-
-* [Provide Top-Notch Customer Support](https://github.com/magefan/shopify-login-as-customer#provide-top-notch-customer-support)
-* [Log in to Customer Accounts in a Few Clicks](https://github.com/magefan/shopify-login-as-customer#log-in-to-customer-accounts-in-a-few-clicks)
-* [Give Customers a Chance to Request Assistance](https://github.com/magefan/shopify-login-as-customer#give-customers-a-chance-to-request-assistance)
-* [Reset Customer Password to Log in](https://github.com/magefan/shopify-login-as-customer#reset-customer-password-to-log-in)
-* [Provide Excellent Support For New Customer Accounts](https://github.com/magefan/shopify-login-as-customer#provide-excellent-support-for-new-customer-accounts)
-* [Track the Login Activity](https://github.com/magefan/shopify-login-as-customer#track-the-login-activity)
-* [Place Orders for Your Customers](https://github.com/magefan/shopify-login-as-customer#place-orders-for-your-customers)
-* [Integrate External CRMs or Helpdesks](https://github.com/magefan/shopify-login-as-customer#integrate-external-crms-or-helpdesks)
+---
+TL;DR: Magefan Login as Customer for Shopify allows store admins to securely access customer accounts without requiring login credentials. Free to use, no maintenance required, and fully compatible with all Shopify plans — perfect for support teams, developers, and store owners who want to help customers faster.
 
 
-## Features
+## Why Use Shopify Login as Customer?
+Supporting Shopify customers efficiently requires seeing exactly what they see.
+
+Doing that without a Login as Customer app:
+
+* Admins must ask customers for screenshots or step-by-step instructions on how to replicate the issue
+* Troubleshooting becomes slow, frustrating and constantly back-and-forth
+* Customer issues may take longer to resolve
+* It’s difficult to replicate checkout or account issues without account access
+* Placing orders on behalf of customers is impossible without direct account access
+
+Shopify Login as Customer app solves these issues.
+
+Store admins can log in securely, view the storefront from the customer’s perspective, and troubleshoot issues significantly faster.
+
+## Features of Shopify Login as Customer
+* One-click login as any customer from Shopify admin
+* Secure, password-free access (with or without Multipass)
+* Works with any Shopify plan: Basic, Shopify, Advanced, or Plus (different login options)
+* Tacks admin activity for compliance
+* Developer-friendly API endpoints for login from other CRMs
+* Fully compatible with all Shopify themes
+* No impact on store speed or customer journey
+  
+## Benefits of the Login as Customer App for Shopify
+
 ### Provide Top-Notch Customer Support
 In the ever-growing world of eCommerce, it becomes more difficult to stand out from similar stores and capture the attention of potential customers. The intuitive design and vast catalog are hardly enough, so you have to look for more feasible options.
 
@@ -99,6 +113,17 @@ The answer is yes! The Shopify Login as Customer app offers API endpoints to int
 <p align="center">
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/lac-shop/shopify-login-as-customer-api-keys.webp">
 </p>
+
+## Frequently Asked Questions about Shopify Login as a Customer
+### What is Login as Customer feature in Shopify?
+Login as Customer feature provided by Magefan allows admins and support managers to access customer accounts on the frontend securely without requiring passwords or login data. It enables real-time support and troubleshooting.
+
+### How is login as customer on Shopify frontend?
+Instead of forcing password changes or asking customers to share sensitive info, use Magefan Login as Customer app that creates a secure session on the customers’ behalf. It allows you to perform all actions customer normally do in their accounts
+
+### Does Shopify Login as Customer app support legacy or new customer accounts?
+This app supports both accounts, offering different logic for every account type. You don’t need Shopify Plus and its Multipass feature; there are multiple login as customer options for all plans.
+
 
 ## Need More Features?
 Please contact us to get a quote
