@@ -1,6 +1,6 @@
 # [Shopify Login as Customer](https://apps.shopify.com/login-as-customer) | Legacy & New Accounts (+B2B)
 
-<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/png/media/catalog/product/cache/dc989049870bcd32f2808f6de0b233f0/s/h/shopify-login-as-customer-logo_1.webp">
+<img align="right" width="160" height="120" src="https://cm.magefan.com/mf_webp/png/media/catalog/product/cache/dc989049870bcd32f2808f6de0b233f0/s/h/shopify-login-as-customer-logo_1.webp">
 
 Shopify Login as Customer is an app that helps you log in to customer accounts without a password in a few clicks. 
 
@@ -176,6 +176,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 * [Magento 2 Size Chart](https://magefan.com/magento-2-size-chart)
 * [Magento 2 Security Extension](https://magefan.com/magento-2-security-extension)
 * [Magento 2 Bot Blocker](https://magefan.com/magento-2-bot-blocker)
+* [Magento 2 AI Assistant](https://magefan.com/magento-2-ai-agent)
 * [Magento 2 Admin Action Log](https://magefan.com/magento-2-admin-action-log)
 * [Magento Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)
 * [Magento 2 Product Tabs](https://magefan.com/magento-2/extensions/product-tabs)
