@@ -1,4 +1,4 @@
-# [Shopify Login as Customer](https://apps.shopify.com/login-as-customer) | Legacy & New Accounts (+B2B)
+# [Shopify Login as Customer](https://apps.shopify.com/login-as-customer) by Magefan
 
 <img align="right" width="160" height="120" src="https://cm.magefan.com/mf_webp/png/media/catalog/product/cache/dc989049870bcd32f2808f6de0b233f0/s/h/shopify-login-as-customer-logo_1.webp">
 
